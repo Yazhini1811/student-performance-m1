@@ -9,4 +9,4 @@ Scikit-learn
 Matplotlib
 
 Live Demo
-(Add your Streamlit link here)
+https://student-performance-m1-umpxwlfbvfuwcl4eahaqdf.streamlit.app/
